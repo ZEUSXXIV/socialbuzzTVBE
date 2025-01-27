@@ -1,0 +1,43 @@
+{
+  "_from": "file:D:/Gautam/copperleaf/applib/applib-1.0.0.tgz",
+  "_id": "applib@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-kWlhG3zvJoIkzz5CO3B4JMZOuwdh9iztfUcIENsEfXdwAnBU9gyJyFw2lKPKtQtjr76WcXoHNk6+0s2sWFGKRw==",
+  "_location": "/applib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "file",
+    "where": "D:\\Gautam\\copperleaf\\coreservice",
+    "raw": "D:\\Gautam\\copperleaf\\applib\\applib-1.0.0.tgz",
+    "rawSpec": "D:\\Gautam\\copperleaf\\applib\\applib-1.0.0.tgz",
+    "saveSpec": "file:D:/Gautam/copperleaf/applib/applib-1.0.0.tgz",
+    "fetchSpec": "D:/Gautam/copperleaf/applib/applib-1.0.0.tgz"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "D:/Gautam/copperleaf/applib/applib-1.0.0.tgz",
+  "_spec": "D:\\Gautam\\copperleaf\\applib\\applib-1.0.0.tgz",
+  "_where": "D:\\Gautam\\copperleaf\\coreservice",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "moment-timezone": "^0.5.31",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^6.4.11",
+    "request": "^2.88.2",
+    "save": "^2.4.0",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^4.4.2"
+  },
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "app.js",
+  "name": "applib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cron",
+  "version": "1.0.0",
+  "description": "jobs to manage main service",
+  "main": "job.js",
+  "scripts": {
+    "start": "nodemon job.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "applib": "file:../applib/applib-1.0.0.tgz",
+    "fs": "0.0.1-security",
+    "moment-timezone": "^0.5.41",
+    "node-cron": "^3.0.2",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.15"
+  }
+}

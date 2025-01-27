@@ -1,0 +1,24 @@
+{
+  "name": "ideoback",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coppercodes1/ideoback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coppercodes1/ideoback/issues"
+  },
+  "homepage": "https://github.com/Coppercodes1/ideoback#readme",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "icmp": "^2.0.1"
+  }
+}

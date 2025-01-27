@@ -1,0 +1,13 @@
+node_modules
+.envconfig
+*.log
+*.log
+*.log
+*.tgz
+applib/applib-1.0.0.tgz
+.vscode/launch.json
+*.log
+*.PNG
+applib/package-lock.json
+coreservice/package-lock.json
+uploads/
